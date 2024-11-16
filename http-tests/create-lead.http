@@ -1,0 +1,9 @@
+POST http://127.0.0.1:3000/api/v1/lead/
+Content-Type: application/json
+
+{
+  "name": "Phillip Shields",
+  "company": "Shields Inc.",
+  "email": "shields@email.com",
+  "phone": "123-456-7890"
+}
